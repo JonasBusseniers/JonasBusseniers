@@ -1,7 +1,7 @@
 var locationsNew = [
     {
       "id": "3-1",
-      "found": false,
+      "found": true,
       "image":"images/stage3/1.jpg",
       "coords": {
         "lat": 51.054830,
