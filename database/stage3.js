@@ -1,7 +1,7 @@
 var locationsNew = [
     {
       "id": "3-1",
-      "found": true,
+      "found": false,
       "image":"images/stage3/1.jpg",
       "coords": {
         "lat": 51.054830,
@@ -77,7 +77,6 @@ var locationsNew = [
 
       var stageId = "locations3";
       var locations = JSON.parse(window.localStorage.getItem(stageId));
-locations[1].found = true;
       if(!locations){
           locations = locationsNew;
       }

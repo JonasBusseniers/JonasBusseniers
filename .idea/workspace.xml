@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fef4cc08-5c4a-42db-9cef-4668713258cb" name="Default" comment="test default true location on storage">
+    <list default="true" id="fef4cc08-5c4a-42db-9cef-4668713258cb" name="Default" comment="test default true location on storage 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/stage3.js" beforeDir="false" afterPath="$PROJECT_DIR$/database/stage3.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +33,7 @@
           <entry key="js" value="2203" />
           <entry key="json" value="148" />
           <entry key="notas" value="141" />
-          <entry key="txt" value="416" />
+          <entry key="txt" value="418" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -43,7 +42,7 @@
           <entry key="HTML" value="4417" />
           <entry key="JSON" value="148" />
           <entry key="JavaScript" value="2203" />
-          <entry key="PLAIN_TEXT" value="557" />
+          <entry key="PLAIN_TEXT" value="559" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -276,7 +275,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560175855726" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560176367481" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JasmienEnHansSchattenzoektocht" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
@@ -465,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560175126071</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="test default true location on storage 2">
+      <created>1560176063201</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1560176063201</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">
@@ -479,6 +485,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27986577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -532,7 +539,8 @@
     <MESSAGE value="fixed puntkomma's" />
     <MESSAGE value="Fixed for firefox" />
     <MESSAGE value="test default true location on storage" />
-    <option name="LAST_COMMIT_MESSAGE" value="test default true location on storage" />
+    <MESSAGE value="test default true location on storage 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test default true location on storage 2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
