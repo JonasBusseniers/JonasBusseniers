@@ -77,7 +77,7 @@ var locationsNew = [
 
       var stageId = "locations3";
       var locations = JSON.parse(window.localStorage.getItem(stageId));
-
+locations[1].found = true;
       if(!locations){
           locations = locationsNew;
       }
